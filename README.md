@@ -50,3 +50,6 @@
 <img src="screenshot/Screenshot (530).png" class="img-fluid"><br>
 <img src="screenshot/Screenshot (531).png" class="img-fluid"><br>
 <img src="screenshot/Screenshot (532).png" class="img-fluid"><br>
+
+# Manage All Users
+<img src="screenshot/Screenshot (533).png" class="img-fluid"><br>
