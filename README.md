@@ -42,3 +42,11 @@
 
 # Admin
 <img src="screenshot/Screenshot (528).png" class="img-fluid"><br>
+
+# Dashboard
+<img src="screenshot/Screenshot (529).png" class="img-fluid"><br>
+
+# Add Category
+<img src="screenshot/Screenshot (530).png" class="img-fluid"><br>
+<img src="screenshot/Screenshot (531).png" class="img-fluid"><br>
+<img src="screenshot/Screenshot (532).png" class="img-fluid"><br>
