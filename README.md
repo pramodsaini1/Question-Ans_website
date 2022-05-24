@@ -38,3 +38,7 @@
 
 # Edit User Profile
 <img src="screenshot/Screenshot (550).png" class="img-fluid"><br>
+
+
+# Admin
+<img src="screenshot/Screenshot (528).png" class="img-fluid"><br>
