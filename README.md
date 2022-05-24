@@ -1,6 +1,6 @@
 # Question-Ans_website
 
-# This is Question & Answer Website where you can ask question & also give  answered any question & upvote any question & edit & delete question .Also edit your profile & you can register & login.You can add your question. 
+# This is Question & Answer Website where you can ask question & also give  answered any question & upvote any question & edit & delete  your question .Also edit your profile & you can register & login.You can add your question. 
 
 # Screenshot
 
