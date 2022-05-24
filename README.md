@@ -33,6 +33,8 @@
 
 # User Profile
 <img src="screenshot/Screenshot (547).png" class="img-fluid"><br>
+<img src="screenshot/Screenshot (548).png" class="img-fluid"><br>
+<img src="screenshot/Screenshot (549).png" class="img-fluid"><br>
 
 # Edit User Profile
-<img src="screenshot/Screenshot (548).png" class="img-fluid"><br>
+<img src="screenshot/Screenshot (550).png" class="img-fluid"><br>
