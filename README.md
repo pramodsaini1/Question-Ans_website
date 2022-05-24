@@ -13,4 +13,7 @@
 <img src="screenshot/Screenshot (536).png" class="img-fluid"><br>
 <img src="screenshot/Screenshot (537).png" class="img-fluid"><br>
 <img src="screenshot/Screenshot (538).png" class="img-fluid"><br>
+
+# Register
+<img src="screenshot/Screenshot (540).png" class="img-fluid"><br>
  
